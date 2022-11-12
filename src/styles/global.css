@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.Home-title img{
+    width: 25px;
+    margin-left: 5px;
+}
+
+.Home-title span{
+    
+        color: #1779B0;
+    
+}
